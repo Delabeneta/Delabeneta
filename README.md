@@ -16,33 +16,35 @@
 ### 🧰 Tech Stack
 
 <!-- Linguagens -->
-<img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-
-<br><br>
+<div style="display: flex; gap: 10px;">
+  <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+</div>
 
 <!-- Frameworks / Runtimes -->
-<img align="center" alt="NestJS" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg">
-<img align="center" alt="NextJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-
-<br><br>
+<div style="display: flex; gap: 10px; margin-top: 10px;">
+  <img alt="NestJS" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg?raw=true">
+  <img alt="NextJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+</div>
 
 <!-- Banco de Dados -->
-<img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img align="center" alt="Couchbase" height="30" width="30" src="https://avatars.githubusercontent.com/u/1096662?s=200&v=4">
-
-<br><br>
+<div style="display: flex; gap: 10px; margin-top: 10px;">
+  <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img alt="Couchbase" height="30" width="30" src="https://avatars.githubusercontent.com/u/1096662?s=200&v=4">
+</div>
 
 <!-- Infraestrutura -->
-<img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-<img align="center" alt="Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+<div style="display: flex; gap: 10px; margin-top: 10px;">
+  <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img alt="Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+</div>
 
 ---
 
-### 
+### 📫 Let's Connect
 
 <div> 
   <a href="https://instagram.com/delabeneta1" target="_blank">
